@@ -4,7 +4,7 @@ function! Pdflatex()
 	if &modified
 		write
 	endif
-	!cd $(dirname %) && pdflatex $(basename %)
+	!cd $(dirname %) && latexmk -pdf $(basename %)
 endfunction
 
 nnoremap <F6> :call Pdflatex()<Cr>
