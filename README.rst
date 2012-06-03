@@ -11,3 +11,8 @@ LaTeX
     Converts the current LaTeX file into a PDF.
 reStructuredText
     Converts the current reStructuredText file into HTML.
+
+License
+=======
+
+This program is licensed under the GPLv2+.
