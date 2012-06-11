@@ -17,7 +17,10 @@ Installation
 
 Assuming you use Pathogen_ (which I can recommend dearly), you can just clone
 this git repository into your ``~/.vim/bundle/`` directory and it should work
-directly.
+directly::
+
+    cd ~/.vim/bundle
+    git clone git://github.com/martin-ueding/vim-compile-button.git
 
 License
 =======
