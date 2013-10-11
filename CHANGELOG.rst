@@ -5,5 +5,8 @@
 Changelog
 #########
 
+v1.0.1
+    - Rename files to avoid crashes
+
 v1.0
     Initial release
